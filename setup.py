@@ -8,7 +8,7 @@ setup(
   author='Oluwafemi David',                   # Type in your name
   author_email='1inventordavid@gmail.com',      # Type in your E-Mail
   url='https://github.com/davidoluwafemi',   # Provide either the link to your github or to your website
-  download_url='https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url='https://github.com/davidoluwafemi/kivyhost/archive/0.1.tar.gz',    # I explain this later on
   keywords=['Logs', 'Kivy', 'adb'],   # Keywords that define your package best
   install_requires=['kivy'],
   classifiers=[
